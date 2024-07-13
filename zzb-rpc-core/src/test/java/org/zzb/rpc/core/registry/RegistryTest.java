@@ -17,7 +17,7 @@ public class RegistryTest {
     @Before
     public void init() {
         RegistryConfig registryConfig = new RegistryConfig();
-        registryConfig.setAddress("http://47.120.7.112:2379");
+        registryConfig.setAddress("http://localhost:2379");
         registry.init(registryConfig);
     }
 

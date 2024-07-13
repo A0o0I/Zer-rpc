@@ -1,0 +1,3 @@
+roundRobin=org.zzb.rpc.core.loadbalancer.impl.RoundRobinLoadBalancer
+random=org.zzb.rpc.core.loadbalancer.impl.RandomLoadBalancer
+consistentHash=org.zzb.rpc.core.loadbalancer.impl.ConsistentHashLoadBalancer

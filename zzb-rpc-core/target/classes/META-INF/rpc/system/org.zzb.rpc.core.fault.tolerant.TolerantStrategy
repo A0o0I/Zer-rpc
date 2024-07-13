@@ -1,0 +1,4 @@
+failBack=org.zzb.rpc.core.fault.tolerant.impl.FailBackTolerantStrategy
+failFast=org.zzb.rpc.core.fault.tolerant.impl.FailFastTolerantStrategy
+failOver=org.zzb.rpc.core.fault.tolerant.impl.FailOverTolerantStrategy
+failSafe=org.zzb.rpc.core.fault.tolerant.impl.FailSafeTolerantStategy

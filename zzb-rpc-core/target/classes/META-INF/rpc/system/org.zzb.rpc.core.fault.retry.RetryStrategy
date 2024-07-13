@@ -1,0 +1,2 @@
+no=org.zzb.rpc.core.fault.retry.impl.NoRetryStrategy
+fixedInterval=org.zzb.rpc.core.fault.retry.impl.FixedIntervalRetryStrategy

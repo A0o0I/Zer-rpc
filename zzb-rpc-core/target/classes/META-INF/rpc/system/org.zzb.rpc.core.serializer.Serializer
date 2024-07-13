@@ -1,0 +1,2 @@
+json=org.zzb.rpc.core.serializer.impl.JsonSerializer
+kryo=org.zzb.rpc.core.serializer.impl.KryoSerializer
